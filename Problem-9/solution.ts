@@ -3,7 +3,6 @@ type Moves = string
 type Result = 'fail' | 'crash' | 'success'
 
 function moveReno(board: Board, moves: Moves): Result {
-    // Code here
     const directions: Record<string, [number, number]> = {
         U: [-1, 0],
         D: [1, 0],
