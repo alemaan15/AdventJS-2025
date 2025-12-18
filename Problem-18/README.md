@@ -1,4 +1,4 @@
-# 🎄 Reto 16: Luces en linea con diagonal
+# 🎄 Reto 18: Luces en linea con diagonal
 
 El panel de luces navideñas 🎄✨ del taller ha sido un éxito total. Pero los elfos quieren ir un paso más allá: ahora quieren detectar si hay una línea de 4 luces del mismo color también en diagonal.
 
